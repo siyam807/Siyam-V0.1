@@ -19,7 +19,9 @@ except ModuleNotFoundError:
     os.system('pip install bs4')
     
     #####ACTIVE APK#####
-    
+
+
+	
     class jalan:
     def __init__(self, z):
         for e in z + "\n":
